@@ -1,4 +1,4 @@
-describe(`$$ command issue`, function() {
+describe(`Fetch multiple elements issue`, function() {
     
     let paragraphs1, paragraphs2;
     
