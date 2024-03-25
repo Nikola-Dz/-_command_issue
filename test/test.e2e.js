@@ -3,7 +3,7 @@ describe(`$$ command issue`, function() {
     let paragraphs1, paragraphs2;
     
     beforeEach(`Open page`, async function() {
-        await browser.url('http://127.0.0.1:5500/html/page.html');
+        await browser.url('https://nikola-dz.github.io/Fetch_multiple_elements_issue/');
     });
     
     context(`Paragraphs exist in DOM`, async function() {
